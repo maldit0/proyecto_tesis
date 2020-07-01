@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff6b29c8-7912-46b4-a35f-0567efecbcda" name="Default Changelist" comment="" />
+    <list default="true" id="ff6b29c8-7912-46b4-a35f-0567efecbcda" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/postulacion/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/_navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/postulacion/deleted.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/postulacion/postulacion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/postulacion/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/postulacion/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/postulacion/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/postulacion/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/postulacion/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/postulacion/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/postulacion/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/postulacion/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -41,11 +53,11 @@
     <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet.xml" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/postulacion" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/postulacion/migrations" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/postulacion" />
     </key>
   </component>
   <component name="RunManager">
@@ -86,7 +98,7 @@
       <workItem from="1593484615233" duration="8101000" />
       <workItem from="1593550910907" duration="525000" />
       <workItem from="1593572366796" duration="843000" />
-      <workItem from="1593573262517" duration="71000" />
+      <workItem from="1593573262517" duration="9974000" />
     </task>
     <servers />
   </component>
@@ -94,10 +106,22 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="695" y="326" width="520" height="385" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593577658581">
+      <screen x="0" y="0" width="1920" height="1045" />
+    </state>
+    <state x="695" y="326" width="520" height="385" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1045@0.0.1920.1045" timestamp="1593577658581" />
     <state x="744" y="274" width="424" height="506" key="FileChooserDialogImpl" timestamp="1593573294595">
       <screen x="0" y="0" width="1920" height="1045" />
     </state>
     <state x="744" y="274" width="424" height="506" key="FileChooserDialogImpl/0.0.1920.1045@0.0.1920.1045" timestamp="1593573294595" />
+    <state x="819" y="429" key="Github.ShareDialog" timestamp="1593573347688">
+      <screen x="0" y="0" width="1920" height="1045" />
+    </state>
+    <state x="819" y="429" key="Github.ShareDialog/0.0.1920.1045@0.0.1920.1045" timestamp="1593573347688" />
+    <state x="679" y="234" width="555" height="585" key="Github.UntrackedFilesDialog" timestamp="1593573371281">
+      <screen x="0" y="0" width="1920" height="1045" />
+    </state>
+    <state x="679" y="234" width="555" height="585" key="Github.UntrackedFilesDialog/0.0.1920.1045@0.0.1920.1045" timestamp="1593573371281" />
     <state x="465" y="164" key="SettingsEditor" timestamp="1593497612539">
       <screen x="0" y="0" width="1920" height="1045" />
     </state>
